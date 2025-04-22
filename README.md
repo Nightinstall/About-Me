@@ -27,6 +27,10 @@ I've been coding for about **4 years**, and I love diving into new languages, fr
 I'm currently working on a few personal projects around cybersecurity and automation.  
 More ideas are on the way — stay tuned 👀
 
+- 🕶️ **OPSEC Expertise:**
+  I'm very skilled when it comes to **operational security (OPSEC)**.  
+  While I don't always apply it strictly to myself, I know **exactly how to wipe everything clean — without leaving a single trace**.
+
 ## 📫 Contact Me
 
 Wanna chat or collaborate?  
